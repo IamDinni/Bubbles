@@ -1,0 +1,40 @@
+{
+    "name": "bubble",
+    "description": "💭 Bubble your thoughts with others.",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "dependencies": {
+        "animejs": "^3.2.1",
+        "bcryptjs": "^2.4.3",
+        "dotenv": "^8.2.0",
+        "dotenv-expand": "^5.1.0",
+        "express": "^4.17.1",
+        "jwt-simple": "^0.5.6",
+        "mongodb": "^2.2.29"
+    },
+    "author": {
+        "name": "Dinesh Singh",
+        "url": "https://github.com/IamDinni/bubble"
+    },
+    "bugs": {
+        "url": "https://github.com/IamDinni/bubble/issues"
+    },
+    "homepage": "https://github.com/IamDinni/bubble#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/IamDinni/bubble.git"
+    },
+    "keywords": [
+        "Bubble",
+        "Express JS ",
+        "JWT",
+        "MongoDB",
+        "Angular JS"
+    ],
+    "devDependencies": {},
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "ISC"
+}
